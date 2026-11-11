@@ -46,3 +46,6 @@ jupyter lab modeling.ipynb   # then Kernel → Restart Kernel and Run All Cells
 
 ## Dataset and license
 Becker, B., & Kohavi, R. (1996). *Adult* [Data set]. UCI Machine Learning Repository. https://doi.org/10.24432/C5XW20. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+---
+*Completed as a capstone project in the Udacity AI Master's program. This repository is not affiliated with or endorsed by Udacity.*
